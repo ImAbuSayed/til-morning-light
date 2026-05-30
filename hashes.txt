@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Til Morning Light
+
+This log tracks the cryptographic history and versioning for the song **Til Morning Light** (til-morning-light).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T12:47:56.755741 | `v1` | `6d4c1dd7f916b31164df514f2a6eb2a3014bbbbedb3c8b2a242885d34454d971` | `c346b9da9ebfc83a6bb2d5aba2217f526997094fa1e1d72354972c71e9c24623` | `2026-05-30_til-morning-light-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
