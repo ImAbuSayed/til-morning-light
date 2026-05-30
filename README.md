@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/til-morning-light/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Til Morning Light](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/til-morning-light/) |
+| **Get License** | [Secure Licensing Rights for Til Morning Light](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/til-morning-light/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> The embers are fading but we’re catching fire
+> Pulling you closer, my only desire
+> Shadows are dancing across the wood floor
+> Leaving the world just outside of that door
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
